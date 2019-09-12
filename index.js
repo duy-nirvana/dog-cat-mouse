@@ -13,4 +13,3 @@ cat1.eat(mouse1);
 dog1.eat(cat1);
 
 console.log(dog1);
-console.log(cat1);
