@@ -12,4 +12,4 @@ dog1.sayHi();
 cat1.eat(mouse1);
 dog1.eat(cat1);
 
-console.log(dog1);
+
